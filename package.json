@@ -2,6 +2,7 @@
   "name": "felopater-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://felopater413.github.io/Videos",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
